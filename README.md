@@ -1,2 +1,2 @@
 # Python-Programming
-A repository to contains all Python labs and exercises
+A repository for all the all Python labs and exercises
